@@ -1,7 +1,7 @@
-# Simple PHP login for testing purposes
->Sample login form made in HTML/CSS + MaterializeCSS + PHP 
-
 ## Testing Web Applications with Cypress
+
+![](img/CypressTrim.gif)
+
 ```
 $ npm install cypress
 
@@ -15,5 +15,3 @@ define("DB_PASS","password");
 define("DB_NAME", "dbname");
 ?> 
 ```
-
-![](img/CypressTrim.gif)
